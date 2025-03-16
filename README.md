@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my React skills<br>👯 I’m looking to collaborate on anything anyone needs help with<br>🌱 I’m currently learning more about React<br>💬 Ask me about anything<br>⚡ Fun fact: I am a certified scuba diver
+🔭 I’m currently working as an contractor creating and improving web and mobile applications using React and React Native<br>
+👯 I’m looking to collaborate on anything anyone needs help with<br>
+🌱 I’m always learning and improving<br>
+💬 Ask me about anything<br>
+⚡ Fun fact: I'm a certified scuba diver
 
 
 ## 🌐 Socials:
